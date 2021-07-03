@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\bin\Debug\PizzaDB1.accdb
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\bin\Debug\PizzaDBFinalProject.exe.config
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\bin\Debug\PizzaDBFinalProject.exe
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\bin\Debug\PizzaDBFinalProject.pdb
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\obj\Debug\PizzaDBFinalProject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\obj\Debug\PizzaDBFinalProject.Form1.resources
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\obj\Debug\PizzaDBFinalProject.Properties.Resources.resources
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\obj\Debug\PizzaDBFinalProject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\obj\Debug\PizzaDBFinalProject.exe
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\obj\Debug\PizzaDBFinalProject.pdb
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\obj\Debug\PizzaDBFinalProject.FormCustomer.resources
+C:\Users\User\source\repos\PizzaDBFinalProject\PizzaDBFinalProject\obj\Debug\PizzaDBFinalProject.FormOrder.resources
